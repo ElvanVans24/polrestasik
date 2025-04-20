@@ -43,7 +43,7 @@
                     <h5 class="card-title">DUMAS PRESISI</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    <a href="#" class="btn bg-warning bg-gradient">Selengkapnya</a>
+                    <a href="/esktrakulikuler/dumas" class="btn bg-warning bg-gradient">Selengkapnya</a>
                   </div>
                 </div>
               </div>
@@ -60,7 +60,7 @@
                     <h5 class="card-title">INFORMASI SATINTELKAM</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    <a href="#" class="btn bg-warning bg-gradient">Selengkapnya</a>
+                    <a href="/esktrakulikuler/intelkam" class="btn bg-warning bg-gradient">Selengkapnya</a>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@
                     <h5 class="card-title">INFORMASI SKCK</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    <a href="#" class="btn bg-warning bg-gradient">Selengkapnya</a>
+                    <a href="/esktrakulikuler/skck" class="btn bg-warning bg-gradient">Selengkapnya</a>
                   </div>
                 </div>
               </div>
@@ -94,7 +94,7 @@
                     <h5 class="card-title">INFORMASI SIM</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    <a href="#" class="btn bg-warning bg-gradient">Selengkapnya</a>
+                    <a href="/esktrakulikuler/sim" class="btn bg-warning bg-gradient">Selengkapnya</a>
                   </div>
                 </div>
               </div>
@@ -111,7 +111,7 @@
                     <h5 class="card-title">INFORMASI SPKT</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    <a href="#" class="btn bg-warning bg-gradient">Selengkapnya</a>
+                    <a href="/esktrakulikuler/spkt" class="btn bg-warning bg-gradient">Selengkapnya</a>
                   </div>
                 </div>
               </div>
@@ -128,7 +128,7 @@
                     <h5 class="card-title">TESTIMONI</h5>
                     <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
                     <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-                    <a href="#" class="btn bg-warning bg-gradient">Selengkapnya</a>
+                    <a href="##" class="btn bg-warning bg-gradient">Selengkapnya</a>
                   </div>
                 </div>
               </div>
