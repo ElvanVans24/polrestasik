@@ -6,7 +6,7 @@
         <div class="card">
           <img src="/img/galery1.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">PAM TPS KABUPATEN TASIKMALAYA</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -15,7 +15,7 @@
         <div class="card">
           <img src="/img/galery2.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">APEL PAGI</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -24,7 +24,7 @@
         <div class="card">
           <img src="/img/galery3.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">TAMU DARI TOKOH AGAMA</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -33,7 +33,7 @@
         <div class="card">
           <img src="/img/galery4.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">APEL MALAM</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -42,7 +42,7 @@
         <div class="card">
           <img src="/img/galery5.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">APEL PAGI RUTIN</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -51,7 +51,7 @@
         <div class="card">
           <img src="/img/galery6.jpeg" class="card-img-top" alt="Prestasi">
           <div class="card-body">
-            <h5 class="card-title">Prestasi Lainnya</h5>
+            <h5 class="card-title">APEL GELAR PASUIKAN DALAM RANGKA PAM TPS PENGUMUTAN ULANG</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -60,7 +60,7 @@
         <div class="card">
           <img src="/img/galery7.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">Apel Pagi</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -69,7 +69,7 @@
         <div class="card">
           <img src="/img/galery8.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">Arahan Dari KaBagOps</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -78,7 +78,7 @@
         <div class="card">
           <img src="/img/galery9.jpeg" class="card-img-top" alt="Prestasi">
           <div class="card-body">
-            <h5 class="card-title">Prestasi Lainnya</h5>
+            <h5 class="card-title">Penertiban Anggota</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -87,7 +87,7 @@
         <div class="card">
           <img src="/img/galery10.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">Sertijab KaBagLog</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -96,7 +96,7 @@
         <div class="card">
           <img src="/img/galery11.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">Sambutan KaBagLog dan Kapolsek Sukaresik</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -114,7 +114,7 @@
         <div class="card">
           <img src="/img/galery13.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">Tamu </h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -123,7 +123,7 @@
         <div class="card">
           <img src="/img/galery14.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">.</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -132,7 +132,7 @@
         <div class="card">
           <img src="/img/galery15.jpeg" class="card-img-top" alt="Prestasi">
           <div class="card-body">
-            <h5 class="card-title">Prestasi Lainnya</h5>
+            <h5 class="card-title">Kenaikan Pangkat Bhabinkatibnas Polsek Cihideng</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -141,7 +141,7 @@
         <div class="card">
           <img src="/img/galery16.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title">kapolres Tasikmalaya,kapolres Tasikmalaya Kota,Dandim 0612 Tasikmalaya</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -177,7 +177,7 @@
         <div class="card">
           <img src="/img/galery20.jpeg" class="card-img-top" alt="Safety Riding">
           <div class="card-body">
-            <h5 class="card-title">Pengujian Lintasan Safety Riding SMKN4 Tasikmalaya</h5>
+            <h5 class="card-title"></h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>
@@ -186,7 +186,7 @@
         <div class="card">
           <img src="/img/galery21.jpeg" class="card-img-top" alt="Prestasi">
           <div class="card-body">
-            <h5 class="card-title">Prestasi Lainnya</h5>
+            <h5 class="card-title">kapolres Tasikmalaya Kota Membantu bis yang Mogok di jalur genntong</h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
           </div>
         </div>

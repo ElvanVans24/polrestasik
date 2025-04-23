@@ -22,7 +22,7 @@
       <div class="card text-center shadow-lg aduan_card" style="max-width: 22rem; width: 100%;">
         <div class="card-body">
           <h5 class="card-title fw-bold">Aduan Masyarakat</h5>
-          <p class="card-text">Laporkan kejadian atau aduan langsung ke Polres Tasikmalaya Kota melalui link berikut:</p>
+          <p class="card-text">Laporkan kejadian atau aduan langsung ke Polres Tasikmalaya Kota melalui link di bawah berikut:</p>
           <a href="https://taplink.cc/polrestasikmalayakota" class="btn bg-warning bg-gradient fw-bold">BEBEJA KA POLRES</a>
         </div>
       </div>
